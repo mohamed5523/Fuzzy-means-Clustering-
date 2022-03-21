@@ -1,2 +1,1 @@
-# computer-vision-
-Detecting if the user is authorized or not 
+fuzzy clusterig Using Python depending on 3 data Excel Sheet
